@@ -5,8 +5,8 @@ Task 4: Personal Portfolio Website
 📁 Task: Build a personal portfolio to showcase your skills and projects
 
 🛠️ Tech Stack:
-.HTML
-.CSS
-.JavaScript
+✅HTML
+✅CSS
+✅JavaScript
 
 
